@@ -19,13 +19,13 @@ Hot to install project
 
 **Open terminal** then write
 
-    ~git clone https://github.com/wh0-1-am/restaurant-stage1.git~
+    git clone https://github.com/wh0-1-am/restaurant-stage1.git
 
 **open the folder by terminal** then write
 
 **Note** By the way you must install python before.
 
-    ~python -m SimpleHTTPServer 8200~
+    python -m SimpleHTTPServer 8200
 
 
 
